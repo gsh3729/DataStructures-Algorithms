@@ -1,2 +1,2 @@
 # DataStructures-Algorithms
-Algorithms 
+Graph and Tree basaed Algorithms 
